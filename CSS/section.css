@@ -1,0 +1,21 @@
+.title {
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: darkgray;
+}
+.title-2 {
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: darkgray;
+}
+.redmension1 { 
+    width: 10%;
+    height: 10%;
+}
+.redmension2 {
+    width: 10%;
+    height: 10%;
+}
+.texto1 {
+    text-align: right;
+}
