@@ -2,24 +2,21 @@
     text-align: left;
     font-family: 'Courier New', Courier, monospace;
     background-color: darkgray;
+    width: 100%;
+    height: 5vh;
 }
-.title-2 {
-    text-align: left;
-    font-family: 'Courier New', Courier, monospace;
-    background-color: darkgray;
+
+.redimension { 
+    width: 5%;
+    height: 5%;
+    float: left;
+    border: 2px solid;
 }
-.redmension1 { 
-    width: 10%;
-    height: 10%;
+.wrapper{
+    width: 80%;
 }
-.redmension2 {
-    width: 10%;
-    height: 10%;
-}
-.texto1 {
-    text-align: right;
-    padding-right: 10px;
-}
-.texto2 {
-    text-align: right;
+section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
